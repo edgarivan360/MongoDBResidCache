@@ -2,7 +2,6 @@ package com.wombats.library.model;
 
 import lombok.Builder;
 import lombok.Data;
-import org.springframework.core.env.Environment;
 
 import javax.validation.constraints.NotEmpty;
 
